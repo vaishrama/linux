@@ -66,13 +66,13 @@ apt-get update
     - sudo -s
     john /etc/shadow
     
-    sysadmin:passw0rd
-    student:Goodluck!
-    mitnik:trustno1
-    babbage:freedom
-    lovelace:dragon
-    stallman:computer
-    turing:lakers
+        - sysadmin:passw0rd
+        - student:Goodluck!
+        - mitnik:trustno1
+        - babbage:freedom
+        - lovelace:dragon
+        - stallman:computer
+        - turing:lakers
 
 
 ---
